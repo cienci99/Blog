@@ -1,0 +1,15 @@
+html{
+    font-size: 62.5;   /* La linea 2 y 5 permiten reiniciar la unidad de medida para adaptabilidad
+                       para diversidad de pantallas micro y macro con mejoria en resolución. */
+}
+body{
+    font-size: 16px;   /* 1 rem = 10px */
+}
+
+h1{
+    text-align: center;
+    font-size: 3.8rem;
+}
+span{
+    font-size: 2rem;
+}
